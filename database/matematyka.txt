@@ -1,0 +1,9 @@
+1 Podaj wzor na pole kwadratu
+2 Co to jest calka oznaczona?
+3 Ile to jest 2 dodac 3?
+4 Co to jest calka?
+5 Podaj wzor na pole kola
+6 Podaj wzor na obwod kola
+7 Ile w przyblizeniu wynosi liczba Pi?
+8 Co wymyslil Pitagoras?
+9 Podaj wzor na objetosc stozka

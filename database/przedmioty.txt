@@ -1,0 +1,7 @@
+1 chemia
+2 fizyka
+3 matematyka
+4 biologia
+5 jezyk angielski
+6 jezyk polski
+7 historia
