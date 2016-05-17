@@ -1,0 +1,220 @@
+12.04.2010r. 18:36:38  Dodano nowe pytanie do pliku matematyka.txt
+12.04.2010r. 18:37:08  Dodano nowe pytanie do pliku fizyka.txt
+12.04.2010r. 18:37:20  Usunieto pytanie z pliku pytania.txt
+12.04.2010r. 18:37:46  Edytowano pytanie o numerze 1 w pliku matematyka.txt
+12.04.2010r. 18:38:06  Wypisano pytania z pliku przedmioty.txt na ekran
+12.04.2010r. 18:38:21  Dodano nowe pytanie do pliku chemia.txt
+12.04.2010r. 18:38:40  Edytowano pytanie o numerze 8 w pliku pytania.txt
+12.04.2010r. 18:39:30  Wylosowano 7 pytan z pliku pytania.txt i zapisano je do pliku wylosowane.txt
+12.04.2010r. 18:40:49  Dodano nowy przedmiot do pliku przedmioty.txt
+12.04.2010r. 19:03:07  Wypisano pytania z pliku pytania.txt na ekran
+12.04.2010r. 19:03:32  Wypisano przedmioty z pliku przedmioty.txt na ekran
+12.04.2010r. 19:04:15  Dodano nowe pytanie do pliku pytania.txt
+12.04.2010r. 19:04:25  Usunieto pytanie z pliku pytania.txt
+12.04.2010r. 19:04:58  Edytowano pytanie o numerze 8 w pliku pytania.txt
+12.04.2010r. 19:05:13  Edytowano pytanie o numerze 8 w pliku pytania.txt
+12.04.2010r. 19:05:44  Wylosowano 8 pytan z pliku pytania.txt i zapisano je do pliku wylos.txt
+12.04.2010r. 19:07:16  Dodano nowy przedmiot do pliku przedmioty.txt
+12.04.2010r. 19:07:46  Dodano nowy przedmiot do pliku przedmioty.txt
+12.04.2010r. 19:08:05  Edytowano przedmiot o numerze 8 w pliku przedmioty.txt
+12.04.2010r. 19:08:27  Dodano nowy przedmiot do pliku przedmioty.txt
+12.04.2010r. 19:08:42  Usunieto przedmiot z pliku przedmioty.txt
+12.04.2010r. 19:08:43  Usunieto przedmiot z pliku przedmioty.txt
+13.04.2010r. 00:41:18  Wypisano pytania z pliku pytania.txt na ekran
+13.04.2010r. 00:41:42  Edytowano pytanie o numerze 6 w pliku pytania.txt
+13.04.2010r. 00:41:44  Wypisano pytania z pliku pytania.txt na ekran
+13.04.2010r. 00:41:59  Dodano nowe pytanie do pliku pytania.txt
+13.04.2010r. 00:42:01  Wypisano pytania z pliku pytania.txt na ekran
+13.04.2010r. 00:42:17  Edytowano pytanie o numerze 14 w pliku pytania.txt
+13.04.2010r. 00:42:23  Wypisano pytania z pliku pytania.txt na ekran
+13.04.2010r. 00:43:35  Wypisano pytania z pliku pytania.txt na ekran
+13.04.2010r. 00:43:49  Usunieto pytanie z pliku pytania.txt
+13.04.2010r. 00:43:52  Wypisano pytania z pliku pytania.txt na ekran
+13.04.2010r. 00:45:12  Wylosowano 9 pytan z pliku pytania.txt i zapisano je do pliku wylosuj.txt
+13.04.2010r. 00:45:20  Wypisano pytania z pliku wylosuj.txt na ekran
+16.04.2010r. 07:45:41  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 19:01:30  Uruchomiono program bez argumentow
+18.04.2010r. 19:01:33  Wybrano opcje "Help"
+18.04.2010r. 19:07:03  Uruchomiono program bez argumentow
+18.04.2010r. 19:08:56  Wybrano opcje "Help"
+18.04.2010r. 19:11:07  Wybrano opcje "Help"
+18.04.2010r. 19:12:30  Wybrano opcje "Help"
+18.04.2010r. 19:13:03  Wybrano opcje "Help"
+18.04.2010r. 19:14:57  Wybrano opcje "Help"
+18.04.2010r. 19:15:27  Wybrano opcje "Help"
+18.04.2010r. 19:17:29  Wybrano opcje "Help"
+18.04.2010r. 19:20:10  Uruchomiono program bez argumentow
+18.04.2010r. 19:21:23  Uruchomiono program bez argumentow
+18.04.2010r. 19:27:41  Uruchomiono program bez argumentow
+18.04.2010r. 19:27:45  Wybrano opcje "Help"
+18.04.2010r. 19:29:17  Uruchomiono program bez argumentow
+18.04.2010r. 19:29:19  Wybrano opcje "Help"
+18.04.2010r. 19:30:24  Wybrano opcje "Help"
+18.04.2010r. 19:31:18  Uruchomiono program bez argumentow
+18.04.2010r. 19:31:23  Wybrano opcje "Help"
+18.04.2010r. 19:35:43  Uruchomiono program bez argumentow
+18.04.2010r. 19:35:46  Wybrano opcje "Help"
+18.04.2010r. 19:35:52  Wybrano opcje "Help"
+18.04.2010r. 19:37:37  Uruchomiono program bez argumentow
+18.04.2010r. 19:37:41  Wybrano opcje "Help"
+18.04.2010r. 19:37:52  Wybrano opcje "Help"
+18.04.2010r. 19:40:37  Uruchomiono program bez argumentow
+18.04.2010r. 19:40:42  Wybrano opcje "Help"
+18.04.2010r. 19:40:51  Wybrano opcje "Help"
+18.04.2010r. 19:45:42  Uruchomiono program bez argumentow
+18.04.2010r. 19:45:46  Wybrano opcje "Help"
+18.04.2010r. 19:46:01  Wybrano opcje "Help"
+18.04.2010r. 19:46:24  Uruchomiono program bez argumentow
+18.04.2010r. 19:48:02  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 19:48:10  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 19:53:00  Uruchomiono program bez argumentow
+18.04.2010r. 19:53:03  Wybrano opcje "Help"
+18.04.2010r. 19:57:52  Uruchomiono program bez argumentow
+18.04.2010r. 19:58:02  Wybrano opcje "Help"
+18.04.2010r. 19:58:10  Wybrano opcje "Help"
+18.04.2010r. 19:59:04  Blad: Podano zbyt malo argumentow dla operacji wypisz
+18.04.2010r. 19:59:15  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 19:59:24  Wypisano przedmioty z pliku przedmioty.txt na ekran
+18.04.2010r. 19:59:42  Blad: Wybrano nieprawidlowa operacje wyp
+18.04.2010r. 20:00:35  Blad: Wybrano nieprawidlowa operacje wyp
+18.04.2010r. 20:00:48  Blad: Wybrano nieprawidlowa operacje wypi
+18.04.2010r. 20:00:58  Blad: Wybrano nieprawidlowa operacje wypi
+18.04.2010r. 21:30:43  Blad: Podano zbyt malo argumentow dla operacji wypisz
+18.04.2010r. 21:30:50  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 21:31:54  Wypisano pytania z pliku pytani.txt na ekran
+18.04.2010r. 21:34:23  Blad: Podany plik do wczytania pytani.txt nie istneje
+18.04.2010r. 21:34:23  Wypisano pytania z pliku pytani.txt na ekran
+18.04.2010r. 21:35:35  Wypisano przedmioty z pliku przedmioty.txt na ekran
+18.04.2010r. 21:35:38  Blad: Podany plik do wczytania przedmiot.txt nie istneje
+18.04.2010r. 21:35:38  Wypisano przedmioty z pliku przedmiot.txt na ekran
+18.04.2010r. 21:38:31  Blad: Podany plik do wczytania przedmiot.txt nie istneje
+18.04.2010r. 21:39:02  Blad: Wybrano nieprawidlowa operacje wypiszy
+18.04.2010r. 21:39:09  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 21:39:25  Blad: Podany plik do wczytania pyta.txt nie istneje
+18.04.2010r. 21:39:44  Wypisano przedmioty z pliku przedmioty.txt na ekran
+18.04.2010r. 21:40:00  Blad: Podany plik do wczytania przedm.txt nie istneje
+18.04.2010r. 21:42:48  Blad: Uruchomiono program bez argumentow
+18.04.2010r. 21:44:26  Wylosowano 6 pytan z pliku pytania.txt i zapisano je do pliku wylosowane.txt
+18.04.2010r. 21:44:40  Wylosowano 5 pytan z pliku pytania.txt i zapisano je do pliku wylosowane.txt
+18.04.2010r. 21:45:21  Wylosowano 5 pytan z pliku pytania.txt i zapisano je do pliku wylosowane.txt
+18.04.2010r. 21:45:35  Wylosowano 8 pytan z pliku pytania.txt i zapisano je do pliku wylosowane.txt
+18.04.2010r. 21:46:21  Wypisano przedmioty z pliku przedmioty.txt na ekran
+18.04.2010r. 21:46:38  Usunieto przedmiot z pliku przedmioty.txt
+18.04.2010r. 21:46:40  Usunieto przedmiot z pliku przedmioty.txt
+18.04.2010r. 21:46:43  Wypisano przedmioty z pliku przedmioty.txt na ekran
+18.04.2010r. 22:04:21  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 22:08:09  Wypisano pytania z pliku pytania.txt na ekran
+18.04.2010r. 22:13:42  Dodano nowe pytanie o tresci nowe probne pytanq do pliku pytania.txt
+18.04.2010r. 22:13:45  Wypisano pytania z pliku pytania.txt na ekran
+19.04.2010r. 00:35:51  Blad: Uruchomiono program bez argumentow
+19.04.2010r. 00:36:00  Wybrano opcje "Help"
+19.04.2010r. 00:36:13  Blad: Wybrano nieprawidlowa operacje wczytaj
+19.04.2010r. 00:36:27  Blad: Podano zbyt malo argumentow dla operacji wypisz
+19.04.2010r. 00:36:38  Wypisano pytania z pliku pytania.txt na ekran
+19.04.2010r. 00:36:48  Blad: Wybrano nieprawidlowa operacje wyp
+19.04.2010r. 00:39:34  Blad: Podany plik do wczytania py.txt nie istneje
+19.04.2010r. 13:46:49  Wypisano pytania z pliku pytania.txt na ekran
+19.04.2010r. 14:13:36  Wypisano pytania z pliku pytania.txt na ekran
+19.04.2010r. 14:15:57  Wybrano opcje "Help"
+19.04.2010r. 14:18:05  Wylosowano 7 pytan z pliku pytania.txt i zapisano je do pliku pliczeq.txt
+19.04.2010r. 14:18:53  Wybrano opcje "Help"
+19.04.2010r. 14:19:55  Blad: Podany plik do wczytania 3.txt nie istneje
+19.04.2010r. 14:20:05  Edytowano przedmiot o numerze 2 w pliku przedmioty.txt
+19.04.2010r. 14:20:27  Edytowano przedmiot o numerze 2 w pliku przedmioty.txt
+19.04.2010r. 14:22:57  Wybrano opcje "Help"
+19.04.2010r. 14:28:21  Blad: Podany plik do wczytania pytania.txt.txt nie istneje
+19.04.2010r. 14:30:35  Edytowano pytanie o numerze 3 w pliku pytania.txt
+19.04.2010r. 14:35:37  Blad: Podano zbyt malo argumentow dla operacji edytuj
+19.04.2010r. 14:49:57  Blad: Podany plik do wczytania py1213.txt nie istneje
+19.04.2010r. 14:50:24  Blad: Podany plik do wczytania plqiod.txt nie istneje
+19.04.2010r. 14:51:20  Dodano nowy przedmiot do pliku przedmioty.txt
+19.04.2010r. 14:51:39  Usunieto pytanie z pliku pytania.txt
+19.04.2010r. 15:05:14  Blad: W pliku pytania.txt nie istnieje pytanie o numerze 0
+19.04.2010r. 15:05:53  Blad: Podano zbyt malo argumentow dla operacji usun
+19.04.2010r. 15:07:09  Blad: Podano zbyt malo argumentow dla operacji edytuj
+19.04.2010r. 15:07:12  Edytowano pytanie o numerze 23 w pliku pytania.txt
+19.04.2010r. 15:07:26  Blad: W pliku pytania.txt nie istnieje pytanie o numerze 23
+19.04.2010r. 15:07:45  Dodano nowe pytanie do pliku pytania.txt
+19.04.2010r. 15:08:00  Blad: Podano zbyt malo argumentow dla operacji edytuj
+19.04.2010r. 15:08:07  Blad: W pliku pytania.txt nie istnieje pytanie o numerze 16
+19.04.2010r. 15:08:11  Edytowano pytanie o numerze 15 w pliku pytania.txt
+19.04.2010r. 15:08:22  Blad: Podano zbyt malo argumentow dla operacji usun
+19.04.2010r. 15:08:25  Usunieto pytanie z pliku pytania.txt
+19.04.2010r. 15:11:17  Blad: Podany plik do wczytania 23.txt nie istneje
+19.04.2010r. 15:11:34  Blad: W pliku przedmioty.txt nie istnieje przedmiot o numerze 23
+19.04.2010r. 15:13:41  Blad: Podano zbyt malo argumentow dla operacji losuj
+19.04.2010r. 15:14:14  Wylosowano 3 pytan z pliku pytania.txt i zapisano je do pliku wyl.txt
+19.04.2010r. 15:15:37  Wylosowano 14 pytan z pliku pytania.txt i zapisano je do pliku wyl.txt
+19.04.2010r. 15:15:48  Wylosowano 1 pytan z pliku pytania.txt i zapisano je do pliku wyl.txt
+19.04.2010r. 15:27:32  Blad: Nie mozna wylosowac 0 pytan. Nalezy wylosowac przynajmniej jedno pytanie
+19.04.2010r. 15:27:36  Blad: Nie mozna wylosowac 20 pytan. Plik pytania.txt zawiera mniej niz 20 pytan
+19.04.2010r. 15:35:48  Wypisano pytania z pliku jezyk_polski.txt na ekran
+19.04.2010r. 15:36:06  Blad: Nie mozna wylosowac 3 pytan. Plik jezyk_polski.txt zawiera mniej niz 3 pytan
+19.04.2010r. 15:36:31  Wypisano pytania z pliku chemia.txt na ekran
+19.04.2010r. 16:33:56  Wypisano pytania z pliku baza/pytania.txt na ekran
+19.04.2010r. 16:35:43  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+19.04.2010r. 19:05:01  Blad: Nie mozna wylosowac 33 pytan. Pliki z pytaniami zawieraja lacznie mniej niz 33 pytan
+19.04.2010r. 19:05:09  Blad: Nie mozna wylosowac 0 pytan. Nalezy wylosowac przynajmniej jedno pytanie
+19.04.2010r. 19:05:16  Blad: Nie mozna wylosowac -2 pytan. Nalezy wylosowac przynajmniej jedno pytanie
+19.04.2010r. 19:06:37  Wylosowano 17 pytan ze wszystkich plikow wymienionych w baza/przedmioty.txt i zapisano je do pliku wylos.txt
+19.04.2010r. 19:35:08  Blad: Podano zbyt malo argumentow dla operacji losuj_wszystko
+19.04.2010r. 19:35:13  Blad: Podano zbyt malo argumentow dla operacji losuj_wszystko
+19.04.2010r. 21:33:38  Wylosowano 16 pytan ze wszystkich plikow wymienionych w baza/przedmioty.txt i zapisano je do pliku wyl.txt
+19.04.2010r. 21:33:51  Wypisano pytania z pliku baza/pytania.txt na ekran
+19.04.2010r. 23:05:55  Blad: Uruchomiono program bez argumentow
+19.04.2010r. 23:12:31  Blad: Wybrano nieprawidlowa operacje herp
+19.04.2010r. 23:28:38  Dodano nowe pytanie do pliku baza/przedmioty.txt
+19.04.2010r. 23:29:02  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+19.04.2010r. 23:29:35  Usunieto przedmiot z pliku baza/przedmioty.txt
+19.04.2010r. 23:29:37  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+19.04.2010r. 23:33:48  Wybrano opcje "Help"
+19.04.2010r. 23:39:36  Wypisano pytania z pliku baza/matematyka.txt na ekran
+19.04.2010r. 23:39:51  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+19.04.2010r. 23:41:01  Wypisano pytania z pliku baza/matematyka.txt na ekran
+19.04.2010r. 23:41:27  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+20.04.2010r. 00:10:20  Blad: Podany plik do wczytania baza/matema.txt nie istneje
+20.04.2010r. 00:13:42  Blad: Podano zbyt malo argumentow dla operacji losuj
+20.04.2010r. 00:14:57  Blad: Uruchomiono program bez argumentow
+20.04.2010r. 00:15:02  Wybrano opcje "Help"
+20.04.2010r. 00:15:05  Blad: Wybrano nieprawidlowa operacje hen
+20.04.2010r. 00:16:18  Blad: Podano zbyt malo argumentow dla operacji edytuj
+20.04.2010r. 00:19:13  Blad: W pliku baza/matematyka.txt nie istnieje pytanie o numerze 104
+20.04.2010r. 00:22:03  Blad: Podano zbyt malo argumentow dla operacji edytuj_przedmiot
+20.04.2010r. 00:22:09  Blad: W pliku baza/przedmioty.txt nie istnieje przedmiot o numerze 93
+20.04.2010r. 00:23:53  Blad: Nie mozna wylosowac 78 pytan. Plik baza/matematyka.txt zawiera mniej niz 78 pytan
+20.04.2010r. 00:25:46  Blad: Nie mozna wylosowac 0 pytan. Nalezy wylosowac przynajmniej jedno pytanie
+20.04.2010r. 00:29:17  Blad: Nie mozna wylosowac 91 pytan. Pliki z pytaniami zawieraja lacznie mniej niz 91 pytan
+26.04.2010r. 18:20:30  Dodano nowy przedmiot do pliku baza/przedmioty.txt
+26.04.2010r. 18:22:03  Dodano nowy przedmiot do pliku baza/przedmioty.txt
+26.04.2010r. 18:22:15  Blad: Wybrano nieprawidlowa operacje wypsiz_przedmioty
+26.04.2010r. 18:22:29  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:22:38  Usunieto przedmiot z pliku baza/przedmioty.txt
+26.04.2010r. 18:22:53  Dodano nowy przedmiot do pliku baza/przedmioty.txt
+26.04.2010r. 18:22:57  Usunieto przedmiot z pliku baza/przedmioty.txt
+26.04.2010r. 18:25:23  Dodano nowy przedmiot do pliku baza/przedmioty.txt
+26.04.2010r. 18:25:36  Edytowano przedmiot o numerze 8 w pliku baza/przedmioty.txt
+26.04.2010r. 18:26:04  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:27:34  Usunieto przedmiot z pliku baza/przedmioty.txt
+26.04.2010r. 18:27:49  Dodano nowy przedmiot do pliku baza/przedmioty.txt
+26.04.2010r. 18:27:54  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:28:07  Usunieto przedmiot z pliku baza/przedmioty.txt
+26.04.2010r. 18:28:11  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:28:15  Dodano nowy przedmiot do pliku baza/przedmioty.txt
+26.04.2010r. 18:28:17  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:28:27  Edytowano przedmiot o numerze 8 w pliku baza/przedmioty.txt
+26.04.2010r. 18:28:30  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:28:56  Blad: Podano zbyt malo argumentow dla operacji losuj_wszystko
+26.04.2010r. 18:29:04  Wylosowano 12 pytan ze wszystkich plikow wymienionych w baza/przedmioty.txt i zapisano je do pliku wyl.txt
+26.04.2010r. 18:31:44  Wybrano opcje "Help"
+26.04.2010r. 18:37:12  Wybrano opcje "Help"
+26.04.2010r. 18:41:02  Wypisano pytania z pliku baza/historia.txt na ekran
+26.04.2010r. 18:42:58  Blad: Podano zbyt malo argumentow dla operacji losuj
+26.04.2010r. 18:43:02  Wylosowano 5 pytan z pliku baza/historia.txt i zapisano je do pliku wyl.txt
+26.04.2010r. 18:43:30  Wypisano przedmioty z pliku baza/przedmioty.txt na ekran
+26.04.2010r. 18:43:47  Usunieto przedmiot z pliku baza/przedmioty.txt
+26.04.2010r. 18:45:00  Blad: Podano zbyt malo argumentow dla operacji losuj
+26.04.2010r. 18:45:07  Wylosowano 6 pytan z pliku baza/historia.txt i zapisano je do pliku wyl1.txt
+26.04.2010r. 18:45:22  Wylosowano 12 pytan ze wszystkich plikow wymienionych w baza/przedmioty.txt i zapisano je do pliku wyl2.txt
+26.04.2010r. 18:47:00  Wylosowano 7 pytan z pliku baza/historia.txt i zapisano je do pliku wyl3.txt
+26.04.2010r. 18:47:08  Wylosowano 11 pytan ze wszystkich plikow wymienionych w baza/przedmioty.txt i zapisano je do pliku wyl4.txt
+26.04.2010r. 18:49:10  Wypisano pytania z pliku baza/matematyka.txt na ekran
